@@ -20,6 +20,5 @@ I'm a passionate full stack developer who loves crafting innovative solutions an
 ### 📫 How to reach me
 
 - You can find me on LinkedIn: https://www.linkedin.com/in/jose99segura/
-- Send me an email at: jose99segura@gmail.com
 
 Thanks for visiting my profile!
