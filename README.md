@@ -5,12 +5,15 @@ I'm a passionate full stack developer who loves crafting innovative solutions an
 ### 🔭 I’m currently working on
 
 - Developing a marketplace of Airbnb apartments using AI tu optimize their SEO using React on the frontend and Node.js on the backend.
+- Developing an translator application using OpenAI, React on the frontend and Nest on the backend.
 - Searching for full stack developers jobs in Luxembourg.
 
 ### 🌱 I’m currently learning
 
-- Top 3 Javascript frameworks: React, Vue and Angular
-- Implementing microservices using Docker containers.
+- Top 3 Javascript frameworks: React, Vue and Angular.
+- Backend development: .NET, Java and NestJS
+- AI implementations
+- Blockchain
 
 ### 💬 Ask me about
 
